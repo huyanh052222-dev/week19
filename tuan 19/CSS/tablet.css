@@ -66,9 +66,9 @@
                                         }
                                     }
                                 }
-                                .content-hov{
+                                .content-hover{
                                     max-width: 230px;
-                                    .head{
+                                    .title-hov{
                                         font-size: 20px;
                                     }
                                 }

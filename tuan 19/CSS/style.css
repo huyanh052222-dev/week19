@@ -294,12 +294,12 @@ body{
                                 width: 100%;
                                 margin: 0 auto;
                                 text-align: center;
-                                .title{
+                                .title-hov{
                                     font-weight: 700;
                                     font-size: 32px;
                                     color: #FFFFFF;
                                 }
-                                .text{
+                                .text-hov{
                                     font-weight: 400;
                                     font-size: 16px;
                                     color: #FFFFFF;
@@ -1087,11 +1087,13 @@ footer{
         .main-bt{
             width: 100%;
             max-width: 1280px;
-            margin: 0 auto;
             padding-top: 32px;
+            border-top: 1px solid white;
+            margin: 0 auto;
             .wrap{
                 width: 100%;
                 max-width: 1216px;
+                margin: 0 auto;
                 display: flex;
                 justify-content: space-between;
                 .left{
