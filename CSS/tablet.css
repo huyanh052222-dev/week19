@@ -1,0 +1,296 @@
+@media screen and (max-width: 1310px) {
+    .hero-section{
+        .bg-hero{}
+        header{
+            max-width: 980px;
+            .wrap-side{
+                gap: 40px;
+                .nav{
+                    gap: 25px;
+                    .item{
+                        .text{}
+                        .arrow{}
+                    }
+                }
+            }
+            .cta{}
+        }
+        .content{
+            max-width: 980px;
+            .wrap{
+                .hero-wrap{
+                    .heading{}
+                    .sub-head{}
+                }
+                .cta{}
+            }
+        }
+    }
+    .section-1{
+        .wrap{
+            .heading{
+                width: 980px;
+                .wrap-text{
+                    .icon{}
+                }
+                .text{}
+            }
+            .content{
+                max-width: 900px;
+                .wrap-content{
+                    max-width: 800px;
+                    .head{}
+                    .random{
+                        .box-ra{}
+                        .act{}
+                    }
+                    .wrap-container{
+                        .box{
+                            width: 300px;
+                        }
+                        .box:hover{
+                            .wrap-hover{
+                                height: 304px;
+                                width: 255px;
+                                gap: 30px;
+                                .line{
+                                    width: 100%;
+                                    max-width: 230px;
+                                    .text{
+                                        font-size: 20px;
+                                    }
+                                    .icon{
+                                        height: 25px;
+                                        img{
+                                            height: 100%;
+                                        }
+                                    }
+                                }
+                                .content-hov{
+                                    max-width: 230px;
+                                    .head{
+                                        font-size: 20px;
+                                    }
+                                }
+                                .ft{
+                                    width: 230px;
+                                    img{
+                                        width: 100%;
+                                        height: 40px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .section-2{
+        .wrap{
+            .heading{
+                max-width: 980px;
+                .wrap-text{}
+            }
+            .content{
+                max-width: 980px;
+                .wrap-content{
+                    height: 500px;
+                    max-width: 800px;
+                    .wrap-box{
+                        max-width: 499px;
+                        .box{
+                            width: 240px;
+                            height: 240px;
+                            .text-front{
+                                font-size: 30px;
+                            }
+                            .hover{
+                                width: 240px;
+                                height: 240px;
+                                .head-hover{
+                                    font-size: 25px;
+                                }
+                                .sub-hob{
+                                    display: none;
+                                }
+                            }
+                        }
+                        .box:hover{
+                        }
+                        
+                    }
+                    .box-col{
+                        width: 300px;
+                        height: 500px;
+                    }
+                }
+            }
+        }
+    }
+    .section-3{
+        height: 950px;
+        .wrap{
+            .heading{
+                width: 980px;
+            }
+            .content{
+                max-width: 900px;
+                height: 600px;
+                .wrap-content{
+                    max-width: 800px;
+                    .super-text{
+                        font-size: 14.5px;
+                        height: 500px;
+                    }
+                    .box{
+                        height: 500px;
+                    }
+                }
+            }
+        }
+    }
+    .section-4{
+        height: 1000px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .wrap{
+            height: 100%;
+            .heading{
+                width: 980px;
+            }
+            .content{
+                max-width: 600px;
+            }
+        }
+    }
+    .section-5{
+        .wrap{
+            .heading{
+                width: 980px;
+            }
+            .content{
+                max-width: 980px;
+                .wrap-content{
+
+                    .left{
+                        gap: 28px;
+                        .title{
+                            font-size: 32px;
+                        }
+                        .sub-container{
+                            gap: 28px;
+                            .top{
+                                margin-top: 0px;
+                                font-size: 16px;
+                            }
+                            .bottom{
+                                gap: 12px;
+                                .h1{}
+                                .h2{
+                                    font-size: 16px;
+                                    line-height: 16px;
+                                }
+                            }
+                        }
+                       
+                    }
+                }
+            }
+        }
+    }
+    .section-6{
+        .wrap{
+            .heading{
+                width: 980px;
+            }
+            .content{
+                max-width: 980px;
+                .wrap-content{
+                    max-width: 900px;
+                    gap: 32px;
+                    .left{
+                        .box{
+                            gap: 24px;
+                            .form-field{
+                                gap: 20px;
+                                .row{
+                                    justify-content: center;
+                                    gap: 16px;
+                                    .row-1{
+                                        .title-row{}
+                                        .input-box{
+                                            width: 180px;
+                                        }
+                                    }
+                                }
+                                .input-mail{
+                                    .text-mail{
+                                        width: 394px;
+                                        margin: 0 auto;
+                                    }
+                                    .box-mail{
+                                        width: 394px;
+                                        margin: 0 auto;
+                                    }
+                                }
+                                .textarea{
+                                    .text-area{
+                                        width: 410px;
+                                        margin: 0 auto;
+                                    }
+                                    .input-area{
+                                        width: 410px;
+                                        margin: 0 auto;
+                                    }
+                                }
+                                .check{
+                                    width: 410px;
+                                    margin: 0 auto;
+                                    .box-check{}
+                                    .sub-check{}
+                                }
+                            }
+                            .action{
+                                width: 410px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    footer{
+        .ft-1{
+            .wrap{
+                max-width: 980px;
+            }
+        }
+        .ft-2{
+            .main{
+                max-width: 980px;
+                .wrap{
+                    max-width: 960px;
+                    .left{
+                        .logo{}
+                        .title{
+                            width: 280px;
+                        }
+                    }
+                    .right{
+                        gap: 24px;
+                        .box{
+                            width: 80px;
+                            .heading{}
+                            .wrap-box{}
+                        }
+                    }
+                }
+            }
+            .main-bt{
+                max-width: 980px;
+            }
+        }
+    }
+}
