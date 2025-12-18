@@ -290,6 +290,7 @@ body{
                                 margin: 0 auto;
                                 text-align: center;
                                 .head{
+                                    text-align: center;
                                     font-weight: 700;
                                     font-size: 32px;
                                     color: #FFFFFF;
