@@ -67,6 +67,7 @@ body{
             background-color: #FFFFFF;
             border-radius: 50px;
             color: #101828;
+            font-weight: 600;
             align-content: center;
             text-align: center;
         }
@@ -650,7 +651,7 @@ body{
         gap: 64px;
         width: 100%;
         max-width: 1280px;
-        .title{
+        .heading{
             align-content: center;
             width: 1280px;;
             margin: 0 auto;
@@ -681,7 +682,7 @@ body{
             height: 649px;
             margin:  0 auto;
             align-content: center;
-            .container{
+            .wrap-cont{
                 max-width: 1216px;
                 margin: 0 auto;
                 display: flex;
@@ -1024,7 +1025,7 @@ footer{
         display: flex;
         flex-direction: column;
         gap: 64px;
-        .container-ft{
+        .container{
             width: 100%;
             max-width: 1280px;
             margin: 0 auto;

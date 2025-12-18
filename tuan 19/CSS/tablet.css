@@ -167,12 +167,12 @@
     }
     .section-5{
         .wrap{
-            .title{
+            .heading{
                 width: 980px;
             }
             .content{
                 max-width: 980px;
-                .container{
+                .wrap-cont{
 
                     .left{
                         gap: 28px;
@@ -268,7 +268,7 @@
             }
         }
         .footer-bottom{
-            .container-ft{
+            .container{
                 max-width: 980px;
                 .wrap{
                     max-width: 960px;
