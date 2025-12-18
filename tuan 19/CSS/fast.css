@@ -1,0 +1,14 @@
+.df-jc-cen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.max-1280{
+    width: 100%;
+    max-width: 1280px;
+}
+
+.mga{
+    margin: 0 auto;
+}
