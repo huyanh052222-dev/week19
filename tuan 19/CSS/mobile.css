@@ -398,13 +398,13 @@
         order: 4;
         .wrap{
             gap: 20px;
-            .title{
+            .heading{
                 width: 390px;
             }
             .content{
                 max-width: 390px;
                 height: 566px;
-                .container{
+                .wrap-cont{
 
                     .left{
                         gap: 15px;
@@ -582,7 +582,7 @@
             height: 265.7489929199219px;
             .wrap{
                 max-width: 390px;
-                .wrap-inside{
+                .wrap-title{
                     max-width: 358px;
                     flex-direction: column;
                     gap: 32px;
@@ -620,7 +620,7 @@
         .footer-bottom{
             height: 1001px;
             gap: 40px;
-            .main{
+            .container{
                 max-width: 358px;
                 margin-top: 40px;
                 .wrap{

@@ -284,6 +284,8 @@ body{
                                     font-size: 25px;
                                     font-weight: 500;
                                     color: #FFFFFF;
+                                    display: flex;
+                                    justify-content: center;
                                 }
                                 .icon{
                                     height: 30px;
@@ -702,6 +704,7 @@ body{
                     .sub-container{
                         display: flex;
                         flex-direction: column;
+                        border-top: 1px solid black;
                         gap: 32px;
                         .top{
                             margin-top: 33px;
@@ -710,6 +713,7 @@ body{
                             color: #667085;
                             span{
                                 text-decoration: underline;
+                                text-underline-offset: 4px;
                             }
                         }
                         .bottom{
